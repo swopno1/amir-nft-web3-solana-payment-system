@@ -1,3 +1,3 @@
 # Take payments IRL with Solana Pay
 
-Code for [Pointer Solana Pay Tutorial](pointer.gg/tutorials/solana-pay-irl-payments)
+Code for [Amir NFT - a solana reallife payment system](pointer.gg/tutorials/solana-pay-irl-payments)
