@@ -1,3 +1,12 @@
 # Take payments IRL with Solana Pay
 
-Code for [Amir NFT - a solana reallife payment system](pointer.gg/tutorials/solana-pay-irl-payments)
+This is a demo e-commerce site where you can make payment with Solana cryptocurrency or USDC.
+
+Live Demo Link: [Amir NFT - a Solana reallife payment system](https://solana-ecommerce.vercel.app/)
+
+## Technology
+
+- Next.Js
+- TypeScript
+- Web3
+- BlockChain
